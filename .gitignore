@@ -2,3 +2,4 @@
 *.zip
 /dataset/
 /celeb_dataset/
+/logs/
